@@ -1,0 +1,43 @@
+body {
+    background-color: #E1C7F2;
+}
+
+h1 {
+    margin-top: 70px;
+}
+
+#header-nav {
+    background-color: #4d0099;
+    border: none;
+}
+
+.navbar-header span {
+    color: #fff;
+}
+
+#chicken,
+#beef,
+#sushi {
+    height: 700px;
+    margin-top: 30px;
+    background-color: #F2A024;
+    padding: 15px;
+    overflow: auto;
+}
+
+#beef {
+    background-color: #078C41;
+    padding: 15px;
+    overflow: auto;
+}
+
+#sushi {
+    background-color: #5A0E8C;
+    color: #fff;
+    padding: 15px;
+    overflow: auto;
+}
+
+li span {
+    color: #fff;
+}
